@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[chat_room_logo.png](https://cdn-icons-png.flaticon.com/128/1041/1041916.png)" alt="Chat Room Logo" width="200">
+  <img src="![chat](https://github.com/Diptangshu4/chat_room_flask/assets/75307938/429a0e74-dfbd-43a1-93ca-8661eb384081)" alt="Chat Room Logo" width="200">
 </div>
 
 # Chat Room
