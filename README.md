@@ -55,3 +55,17 @@ A Real-Time Chat Room Web Application built with Flask and Socket.IO.
 ## Feedback
 
 We welcome any feedback or suggestions. Feel free to open an issue or submit a pull request if you have any ideas for improvements.
+
+## Contact
+
+Email - diptangshu4@gmail.com
+
+LinkedIn - https://www.linkedin.com/in/diptangshu-bhattacharjee?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJvlOwT6jTaqyh7vuUhuk7Q%3D%3D
+
+## Credits
+
+Channel Name: Tech With Tim
+
+Original Video Link:https://youtu.be/mkXdvs8H7TA
+
+Thanks Tech With Tim 
